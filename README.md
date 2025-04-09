@@ -9,8 +9,6 @@ The goal is to explore **non-verbal nuance** in text generation — capturing no
 
 Lunes outputs styled image representations of emotional messages described via XML, enabling an entirely new modality for computational expression.
 
----
-
 ## 📦 Project Structure
 
 ``` bash
@@ -23,8 +21,6 @@ Lunes/
     ├── tokenizer.py           # XML → Image generator
     └── README.md              # You're here
 ```
-
----
 
 ## 🔤 Fonts (Not Included)
 
@@ -62,8 +58,6 @@ fonts/
     ├── UDEVGothic35LG-Regular.ttf
 ```
 
----
-
 ## 📄 Sample XML Format
 
 ```xml
@@ -72,8 +66,6 @@ fonts/
   <text align="center" size="32">今日はゆっくりしてね</text>
 </message>
 ```
-
----
 
 ## ⚖️ Status
 
@@ -85,13 +77,9 @@ Lunes is under active development.Currently focusing on:
 
 - Minimal generative visual logic
 
----
-
 ## 📜 License
 
 MIT License Fonts must follow their own respective licenses (Google Fonts are typically under OFL).
-
----
 
 ## ✨ Created by
 
@@ -112,8 +100,6 @@ XMLで記述された感情付きメッセージを読み取り、
 対応する日本語フォントで画像として出力することで、
 「何を言うか」だけでなく「どう言うか」まで含めたコミュニケーションを目指します。
 
----
-
 ## 📦 プロジェクト構成
 
 ```bash
@@ -126,8 +112,6 @@ Lunes/
     ├── tokenizer.py           # XML → 画像のレンダラー
     └── README.md              # このファイル
 ```
-
----
 
 ## 🔤 フォントについて（Fonts - 含まれていません）
 
@@ -147,12 +131,12 @@ Lunes/
 
 ### ▶ GitHub配布フォント
 
-| Font Label | GitHub Release Link | Emotion |
+| フォント名 | GitHubリリースリンク | 対応する感情 |
 |------------|----------------------|---------|
 | Source Han Serif JP | [Source Han Serif](https://github.com/adobe-fonts/source-han-serif/releases) | `sadness`（寂しさ・哀愁） |
 | UDEV Gothic 35LG | [UDEV Gothic](https://github.com/yuru7/udev-gothic/releases) | `irony`（皮肉・乾いた笑い） |
 
-**Folder structure:**
+**フォルダ構造:**
 
 ``` bash
 fonts/
@@ -165,8 +149,6 @@ fonts/
     ├── UDEVGothic35LG-Regular.ttf
 ```
 
----
-
 ## 📄 サンプルXML形式
 
 ```xml
@@ -175,8 +157,6 @@ fonts/
   <text align="center" size="32">今日はゆっくりしてね</text>
 </message>
 ```
-
----
 
 ## ⚖️ 開発ステータス
 
@@ -188,14 +168,10 @@ fonts/
 
 - 最小限の視覚生成ロジック
 
----
-
 ## 📜 ライセンス
 
 このリポジトリのコードは MITライセンス に基づいて公開されています。
 ただし、使用するフォントはそれぞれのライセンスに従ってください（Google Fontsは通常OFLです）。
-
----
 
 ## ✨ 作者
 
