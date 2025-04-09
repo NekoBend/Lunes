@@ -1,0 +1,32 @@
+{
+    "emotions": {
+        "neutral": {
+            "font_name": "NotoSansJP-Regular.ttf",
+            "description": "Flat and neutral tone with no emotional inflection."
+        },
+        "gentleness": {
+            "font_name": "RoundedMplus1c-Regular.ttf",
+            "description": "Soft and approachable tone, with a comforting aesthetic."
+        },
+        "sadness": {
+            "font_name": "SourceHanSerifJP-Regular.ttf",
+            "description": "Delicate, nostalgic impression; expressive of emotional distance."
+        },
+        "playfulness": {
+            "font_name": "KosugiMaru-Regular.ttf",
+            "description": "Innocent and energetic tone, great for light and casual messages."
+        },
+        "irony": {
+            "font_name": "UDEVGothic35LG-Regular.ttf",
+            "description": "Monospaced, dry and emotionless. Slightly cold or sarcastic vibe."
+        },
+        "anxiety": {
+            "font_name": "NotoSerifJP-Regular.ttf",
+            "description": "A bit tense and restrained; captures hesitation and inner turmoil."
+        },
+        "anger": {
+            "font_name": "Mplus1p-Regular.ttf",
+            "description": "Firm and assertive tone, suggests emotional impact or frustration."
+        }
+    }
+}
