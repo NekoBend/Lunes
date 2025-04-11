@@ -50,8 +50,8 @@ Please manually download the following fonts and place the `.ttf` or `.otf` file
 ``` bash
 fonts/
     ├── KosugiMaru-Regular.ttf
-    ├── Mplus1p-Regular.ttf
-    ├── RoundedMplus1c-Regular.ttf
+    ├── MPLUS1p-Regular.ttf
+    ├── MPLUSRounded1c-Regular.ttf
     ├── NotoSansJP-Regular.ttf
     ├── NotoSerifJP-Regular.ttf
     ├── SourceHanSerif-Regular.otf
@@ -141,8 +141,8 @@ Lunes/
 ``` bash
 fonts/
     ├── KosugiMaru-Regular.ttf
-    ├── Mplus1p-Regular.ttf
-    ├── RoundedMplus1c-Regular.ttf
+    ├── MPLUS1p-Regular.ttf
+    ├── MPLUSRounded1c-Regular.ttf
     ├── NotoSansJP-Regular.ttf
     ├── NotoSerifJP-Regular.ttf
     ├── SourceHanSerif-Regular.otf
