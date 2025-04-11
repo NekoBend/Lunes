@@ -54,7 +54,7 @@ fonts/
     ├── RoundedMplus1c-Regular.ttf
     ├── NotoSansJP-Regular.ttf
     ├── NotoSerifJP-Regular.ttf
-    ├── SourceHanSerifJP-Regular.otf
+    ├── SourceHanSerif-Regular.otf
     ├── UDEVGothic35LG-Regular.ttf
 ```
 
@@ -145,7 +145,7 @@ fonts/
     ├── RoundedMplus1c-Regular.ttf
     ├── NotoSansJP-Regular.ttf
     ├── NotoSerifJP-Regular.ttf
-    ├── SourceHanSerifJP-Regular.otf
+    ├── SourceHanSerif-Regular.otf
     ├── UDEVGothic35LG-Regular.ttf
 ```
 
