@@ -61,10 +61,16 @@ fonts/
 ## 📄 Sample XML Format
 
 ```xml
-<message>
-  <emotion value="gentleness" />
-  <text align="center" size="32">今日はゆっくりしてね</text>
-</message>
+<messages>
+    <message>
+        <emotion>gentleness</emotion>
+        <text align="center" size="32">今日はゆっくりしてね</text>
+    </message>
+    <message>
+        <emotion>gentleness</emotion>
+        <text align="center" size="32">今は元気？</text>
+    </message>
+</messages>
 ```
 
 ## ⚖️ Status
@@ -152,10 +158,16 @@ fonts/
 ## 📄 サンプルXML形式
 
 ```xml
-<message>
-  <emotion value="gentleness" />
-  <text align="center" size="32">今日はゆっくりしてね</text>
-</message>
+<messages>
+    <message>
+        <emotion>gentleness</emotion>
+        <text align="center" size="32">今日はゆっくりしてね</text>
+    </message>
+    <message>
+        <emotion>gentleness</emotion>
+        <text align="center" size="32">今は元気？</text>
+    </message>
+</messages>
 ```
 
 ## ⚖️ 開発ステータス
