@@ -5,11 +5,11 @@
             "description": "Flat and neutral tone with no emotional inflection."
         },
         "gentleness": {
-            "font_name": "RoundedMplus1c-Regular.ttf",
+            "font_name": "MPLUSRounded1c-Regular.ttf",
             "description": "Soft and approachable tone, with a comforting aesthetic."
         },
         "sadness": {
-            "font_name": "SourceHanSerifJP-Regular.ttf",
+            "font_name": "SourceHanSerif-Regular.ttf",
             "description": "Delicate, nostalgic impression; expressive of emotional distance."
         },
         "playfulness": {
@@ -25,7 +25,7 @@
             "description": "A bit tense and restrained; captures hesitation and inner turmoil."
         },
         "anger": {
-            "font_name": "Mplus1p-Regular.ttf",
+            "font_name": "MPLUS1p-Regular.ttf",
             "description": "Firm and assertive tone, suggests emotional impact or frustration."
         }
     }
